@@ -134,4 +134,4 @@ The default relay works out of the box, but you might want your own for:
 
 ## License
 
-GPL-3.0. See the [main En Parlant~ repository](https://github.com/DarrellThomas/en-parlant) for the full project.
+MIT. See [LICENSE](LICENSE) for details.
