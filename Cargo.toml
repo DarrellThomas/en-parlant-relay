@@ -3,7 +3,7 @@ name = "en-parlant-relay"
 version = "0.1.0"
 edition = "2021"
 description = "WebSocket relay server for En Parlant~ multiplayer chess"
-license = "GPL-3.0"
+license = "MIT"
 
 [dependencies]
 axum = "0.7"
